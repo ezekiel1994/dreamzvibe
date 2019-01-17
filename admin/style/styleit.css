@@ -1,0 +1,38 @@
+/** admin style **/
+body{
+	margin:0;
+	padding:0;
+	font-size:15px;
+	color:#000;
+}
+table tbody{
+	font-size:12px;
+}
+a{
+	
+}
+a:hover{
+	color:blue;
+}
+a:active{
+	text-decoration:none;
+	color:#ccc;
+}
+ul li a{
+	text-decoration:none;
+	color:#000;
+}
+h2,p{
+	color:#aaa;
+}
+.panel .panel-heading{
+	background-color:#000;
+	border:1px solid #000;
+}
+.panel .panel-body table th{
+	font-size:13px;
+	font-weight:700;
+}
+h4{
+	color:#fff;
+}
